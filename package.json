@@ -1,5 +1,5 @@
 {
-  "name": "card_dsFab",
+  "name": "cc-validator",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -22,6 +22,7 @@
     "express": "^4.18.2",
     "express-async-errors": "^3.1.1",
     "jsonwebtoken": "^9.0.0",
-    "prisma": "^4.14.0"
+    "prisma": "^4.14.0",
+    "zod": "^3.21.4"
   }
 }
